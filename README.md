@@ -1,8 +1,8 @@
 # Developed by
-* * Abdullah al Mubin
+* Abdullah al Mubin
 * Javascript and .NET Developer
-* * +8801764675540
-* * amubin19@gmail.com
+* +8801764675540
+* amubin19@gmail.com
 
 
 ## Getting Started with Create React App
