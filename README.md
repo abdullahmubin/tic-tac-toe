@@ -4,6 +4,10 @@
 * +8801764675540
 * amubin19@gmail.com
 
+#### Used
+* react(Hook) + redux
+* Bootstrap (CDN) and Custom CSS
+
 ## Please Downlaod the master branch
 
 ## Getting Started with Create React App
@@ -14,7 +18,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm install`
+### `npm install` 
 ### `npm start`
 
 Runs the app in the development mode.\
